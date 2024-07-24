@@ -1,0 +1,4 @@
+name: mHub
+version: 1.0
+main: dev.sumando.mhub.mHub
+api-version: 1.8
